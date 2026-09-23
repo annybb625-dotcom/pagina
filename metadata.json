@@ -1,0 +1,6 @@
+{
+  "name": "Cuaderno Borahae - Portafolio BTS & BT21",
+  "description": "Portafolio académico de Base de Datos con temática BTS y BT21 en tono lila. Incluye Semana 1 (Actividades 1 y 2, temas 1 al 9) y Semana 2 (Actividad 1 con 8 láminas DER y Actividad 2 con 5 infografías de motores SGBD: MongoDB, PostgreSQL, Oracle, MySQL y MS-SQL Server).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
